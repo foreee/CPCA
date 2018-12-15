@@ -15,3 +15,6 @@ Based on libnabo.
 
 # Usage
 
+Ignore the parameters include "weld" feature, it is for another thing,
+
+Using the VS2012+ to compile this project .
