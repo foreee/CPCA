@@ -18,3 +18,12 @@ Based on libnabo.
 Ignore the parameters include "weld" feature, it is for another thing,
 
 Using the VS2012+ to compile this project .
+
+# Exsample
+Using the the pointCloud of Stanford Rabbit，the matched result show as follow 
+![Image text](img/CPCA_test_1.png)
+![Image text](img/CPCA_test_2.png)
+![Image text](img/CPCA_test_3.png)
+![Image text](img/CPCA_test_noise_0.1.png)
+![Image text](img/CPCA_test_noise_0.2.png)
+![Image text](img/CPCA_test_noise_0.3.png)
