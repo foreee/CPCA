@@ -67,7 +67,7 @@ int main(int argc, char* argv[])
 
 	//**********   change file name,change other data**********//
 	//**********// model is moved,data is static //**********//
-	char* modelpath = "model\\CADmodel.txt";
+	char* modelpath = "data\\model.txt";
 	char* datapath = "data\\data.txt";
 	char* CADweldpath = "model\\CADweld.txt";
 	int i = 1;
@@ -841,7 +841,7 @@ int Readparam(char* fileName, float* trig, int* knum, float* anglethrold, float*
 		printf("Can not open the mparam!\n");
 		return -1;
 	}
-	else//ÎÄ¼þ´æÔÚ  
+	else//ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½  
 	{
 		int LINES = CountLines(fileName);
 		for (int i = 0; i<LINES; i++)
@@ -855,7 +855,7 @@ int Readparam(char* fileName, float* trig, int* knum, float* anglethrold, float*
 
 		}
 
-		fclose(file); //¹Ø±ÕÎÄ¼þ  
+		fclose(file); //ï¿½Ø±ï¿½ï¿½Ä¼ï¿½  
 		return 0;
 	}
 
