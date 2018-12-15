@@ -20,7 +20,8 @@ Ignore the parameters include "weld" feature, it is for another thing,
 Using the VS2012+ to compile this project .
 
 # Exsample
-Using the the pointCloud of Stanford Rabbit，the matched result show as follow 
+Using the the pointCloud of Stanford Rabbit，the matched result is shown as follow.
+The left is init position and right is registration result.
 ![Image text](img/CPCA_test_1.png)
 ![Image text](img/CPCA_test_2.png)
 ![Image text](img/CPCA_test_3.png)
