@@ -69,7 +69,7 @@ int main(int argc, char* argv[])
 	//**********// model is moved,data is static //**********//
 	char* modelpath = "data\\model.txt";
 	char* datapath = "data\\data.txt";
-	char* CADweldpath = "model\\CADweld.txt";
+	char* CADweldpath = "data\\CADweld.txt";
 	int i = 1;
 	bool DOLFEA = false;
 	bool DOICP = false;	
