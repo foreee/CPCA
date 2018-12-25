@@ -3,7 +3,7 @@
 # 3D-Pointcloud-registration-in arbitrary position
 Matching two point-clouds in arbitrary position within a short time;
 
-Based on libnabo.
+Based on libnabo and FastICP.
 
 # lib necessary-
 
